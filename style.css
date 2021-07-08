@@ -3,7 +3,7 @@
 @import "tailwindcss/utilities";
 
 body {
-  background-color: magenta;
+  background-color: rgb(217 14 251 / 56%);
   text-align: center;
 }
 
