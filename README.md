@@ -2,7 +2,7 @@
 
 ## Description
 
-* _Vite, Vercel, Tailwindcss_
+* _Vite (French word for 'fast', pronounced /vit/ ) is a build tool that aims to provide a faster and leaner development experience for modern web projects. It consists of two major parts: A dev server that provides rich feature enhancements over native ES modules, for example extremely fast Hot Module Replacement (HMR)._
 
 
 
